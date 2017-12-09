@@ -1,0 +1,2 @@
+# Lepehacoin
+Our cryptocurrency LPC
